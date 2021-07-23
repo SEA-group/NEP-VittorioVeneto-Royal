@@ -1,0 +1,114 @@
+<ISB013_Vittorio_Veneto_1944_Stern_ports.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+		</transform>
+		<node>
+			<identifier>	Stern_ports	</identifier>
+			<transform>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_FX_Fire_4	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.2862 -6.6812 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTraceBack	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 -7.8205 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace_screw_3	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.2740 -0.5302 -6.4600 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace_screw_4	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.2741 -0.5302 -6.4600 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_IC_1	</identifier>
+				<transform>
+					<row0>	0.7193 0.0000 -0.6947 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.6947 0.0000 0.7193 0.0000	</row2>
+					<row3>	0.0000 0.2689 -7.1594 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Ship_death_3	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 -5.8868 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM001_Propeller3_L	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0063 0.0000	</row0>
+					<row1>	0.0002 0.9994 -0.0336 0.0000	</row1>
+					<row2>	-0.0063 0.0336 0.9994 0.0000	</row2>
+					<row3>	-0.2740 -0.5302 -6.4600 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM032_Propeller3_R	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 -0.0063 0.0000	</row0>
+					<row1>	-0.0002 0.9994 -0.0336 0.0000	</row1>
+					<row2>	0.0063 0.0336 0.9994 0.0000	</row2>
+					<row3>	0.2741 -0.5302 -6.4600 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_IM003_Crown	</identifier>
+				<transform>
+					<row0>	1.2872 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.2860 0.0546 0.0000	</row1>
+					<row2>	0.0000 -0.0546 1.2860 0.0000	</row2>
+					<row3>	0.0000 0.2171 -7.8181 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_IM900_Crane	</identifier>
+				<transform>
+					<row0>	0.8290 0.0000 -0.5592 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.5592 0.0000 0.8290 0.0000	</row2>
+					<row3>	0.0000 0.2761 -7.6563 1.0000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<boundingBox>
+		<min>	-0.0667 -0.0667 -0.0667	</min>
+		<max>	0.0667 0.0667 0.0667	</max>
+	</boundingBox>
+</ISB013_Vittorio_Veneto_1944_Stern_ports.visual>

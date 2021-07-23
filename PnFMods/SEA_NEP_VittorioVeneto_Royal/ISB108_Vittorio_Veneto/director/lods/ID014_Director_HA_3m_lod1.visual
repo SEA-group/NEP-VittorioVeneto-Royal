@@ -1,0 +1,38 @@
+<ID014_Director_HA_3m_lod1.visual>
+	<boundingBox>
+		<min>	-0.116692 0.000000 -0.087536	</min>
+		<max>	0.116692 0.151206 0.087536	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	ID014_Director_HA_3m_Stern	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	ID014_Director_HA_3m_Stern	</node>
+		<geometry>
+			<vertices>	ID014_Director_HA_3m_Stern_lod1Shape.vertices	</vertices>
+			<primitive>	ID014_Director_HA_3m_Stern_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/director/ID014_Director_HA_3m_Stern.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</ID014_Director_HA_3m_lod1.visual>

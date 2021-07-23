@@ -1,0 +1,38 @@
+<ID013_Director_LA_5m.visual>
+	<boundingBox>
+		<min>	-0.199586 -0.015325 -0.130001	</min>
+		<max>	0.199586 0.188499 0.130065	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	ID013_Director_LA_5m	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	ID013_Director_LA_5m	</node>
+		<geometry>
+			<vertices>	ID013_Director_LA_5mShape.vertices	</vertices>
+			<primitive>	ID013_Director_LA_5mShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/director/ID013_Director_LA_5m.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</ID013_Director_LA_5m.visual>

@@ -1,0 +1,8 @@
+<IC002_Catapult.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/catapult/lods/IC002_Catapult_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/catapult/IC002_Catapult	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</IC002_Catapult.model>

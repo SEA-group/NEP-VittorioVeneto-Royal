@@ -1,0 +1,17 @@
+<IPT001_Torpedo_Si270.mfm>
+	<fx>	shaders/std_effects/PBS_ship_nodamage.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/projectile/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/projectile/IPT001_Torpedo_Si270_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/projectile/IPT001_Torpedo_Si270_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/projectile/IPT001_Torpedo_Si270_a.dds	</Texture>
+	</property>
+</IPT001_Torpedo_Si270.mfm>

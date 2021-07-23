@@ -1,0 +1,61 @@
+<ID008_DCT_7_2m_Torretta_Roma_Top.visual>
+	<boundingBox>
+		<min>	-0.298157 -0.010284 -0.218845	</min>
+		<max>	0.298157 0.174441 0.205441	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	director	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	director_wire	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	director	</node>
+		<geometry>
+			<vertices>	directorShape.vertices	</vertices>
+			<primitive>	directorShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/director/ID008_DCT_7_2m_Torretta_Roma_Top.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	director_wire	</node>
+		<geometry>
+			<vertices>	director_wireShape.vertices	</vertices>
+			<primitive>	director_wireShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/director/ID008_DCT_7_2m_Torretta_Roma_Top_wire.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</ID008_DCT_7_2m_Torretta_Roma_Top.visual>

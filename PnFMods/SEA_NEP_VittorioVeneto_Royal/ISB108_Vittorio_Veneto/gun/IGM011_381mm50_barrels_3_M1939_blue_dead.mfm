@@ -1,0 +1,17 @@
+<IGM011_381mm50_barrels_3_M1939_blue_dead.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/gun/IGM011_381mm50_barrels_3_M1939_blue_dead_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/gun/IGM011_381mm50_barrels_3_M1939_blue_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/gun/IGM011_381mm50_barrels_3_M1939_blue_dead_mg.dds	</Texture>
+	</property>
+</IGM011_381mm50_barrels_3_M1939_blue_dead.mfm>

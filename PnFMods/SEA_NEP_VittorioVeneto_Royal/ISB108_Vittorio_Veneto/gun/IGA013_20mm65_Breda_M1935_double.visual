@@ -1,0 +1,56 @@
+<IGA013_20mm65_Breda_M1935_double.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Turret	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_gunFire1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	0.000000 0.141807 0.122897 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFireEffect	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	0.000000 0.141807 0.122897 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Turret	</node>
+		<geometry>
+			<vertices>	TurretShape.vertices	</vertices>
+			<primitive>	TurretShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
+					<mfm>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/gun/IGA013_20mm65_Breda_M1935_double.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.060128 -0.000000 -0.093120	</min>
+		<max>	0.045466 0.149004 0.128047	</max>
+	</boundingBox>
+</IGA013_20mm65_Breda_M1935_double.visual>

@@ -1,0 +1,17 @@
+<IRS015_EC3_ter_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/radar/IRS015_EC3_ter_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/radar/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/radar/IRS015_EC3_ter_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/radar/IRS015_EC3_ter_n.dds	</Texture>
+	</property>
+</IRS015_EC3_ter_skinned.mfm>

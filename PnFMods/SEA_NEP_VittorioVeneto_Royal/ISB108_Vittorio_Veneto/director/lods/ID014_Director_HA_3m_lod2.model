@@ -1,0 +1,8 @@
+<ID014_Director_HA_3m_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/director/lods/ID014_Director_HA_3m_lod3	</parent>
+	<extent>	10.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/director/lods/ID014_Director_HA_3m_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ID014_Director_HA_3m_lod2.model>

@@ -1,0 +1,18 @@
+<IRS015_EC3_ter_lod1.model>
+	<action>
+		<name>	idle	</name>
+		<animation>	NC018_IRS015_EC3_ter	</animation>
+		<filler>	true	</filler>
+	</action>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/radar/lods/IRS015_EC3_ter_lod2	</parent>
+	<extent>	8.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/radar/lods/IRS015_EC3_ter_lod1	</nodefullVisual>
+	<animation>
+		<name>	NC018_IRS015_EC3_ter	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/common/NC018_IRS015_EC3_ter	</nodes>
+	</animation>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</IRS015_EC3_ter_lod1.model>

@@ -1,0 +1,17 @@
+<ID009_DCT_7_2m_Torretta_Roma_Bottom.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/director/ID009_DCT_7_2m_Torretta_Roma_Bottom_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/director/ID009_DCT_7_2m_Torretta_Roma_Bottom_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/director/ID009_DCT_7_2m_Torretta_Roma_Bottom_n.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/director/default_ao.dds	</Texture>
+	</property>
+</ID009_DCT_7_2m_Torretta_Roma_Bottom.mfm>

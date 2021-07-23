@@ -1,0 +1,141 @@
+<ISB013_Vittorio_Veneto_1944_Bow_ports.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+		</transform>
+		<node>
+			<identifier>	Bow_ports	</identifier>
+			<transform>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_FX_Death_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 4.9675 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.4433 5.9842 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 7.7892 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_IGA_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.5682 7.6170 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_IGA_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.5411 7.2743 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_IGA_3	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.4879 6.5867 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_IGA_4	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.4512 5.9708 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Ship_death_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 4.6628 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_IM023_Bow_Star	</identifier>
+				<transform>
+					<row0>	2.4621 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.7396 1.1790 0.0000	</row1>
+					<row2>	0.0000 -0.9633 1.4213 0.0000	</row2>
+					<row3>	0.0000 0.5287 8.0581 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_IM951_Anchor_up	</identifier>
+				<transform>
+					<row0>	0.8611 -0.4144 -0.2947 0.0000	</row0>
+					<row1>	-0.2837 0.0895 -0.9547 0.0000	</row1>
+					<row2>	0.4220 0.9057 -0.0405 0.0000	</row2>
+					<row3>	0.3601 0.4998 7.0703 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_IM951_Anchor_up_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.8611 0.4144 0.2947 0.0000	</row0>
+					<row1>	0.2837 0.0895 -0.9547 0.0000	</row1>
+					<row2>	-0.4220 0.9057 -0.0405 0.0000	</row2>
+					<row3>	-0.3601 0.4998 7.0703 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_IM952_Anchor_Bottom	</identifier>
+				<transform>
+					<row0>	0.8499 -0.3797 0.3653 0.0000	</row0>
+					<row1>	0.3155 -0.1886 -0.9300 0.0000	</row1>
+					<row2>	0.4220 0.9057 -0.0405 0.0000	</row2>
+					<row3>	0.3601 0.4998 7.0703 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_IM952_Anchor_Bottom_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.8499 0.3797 -0.3653 0.0000	</row0>
+					<row1>	-0.3155 -0.1886 -0.9300 0.0000	</row1>
+					<row2>	-0.4220 0.9057 -0.0405 0.0000	</row2>
+					<row3>	-0.3601 0.4998 7.0703 1.0000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<boundingBox>
+		<min>	-0.0667 -0.0667 -0.0667	</min>
+		<max>	0.0667 0.0667 0.0667	</max>
+	</boundingBox>
+</ISB013_Vittorio_Veneto_1944_Bow_ports.visual>

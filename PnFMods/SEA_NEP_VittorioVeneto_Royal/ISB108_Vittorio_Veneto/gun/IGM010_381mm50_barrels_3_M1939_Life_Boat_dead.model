@@ -1,0 +1,9 @@
+<IGM010_381mm50_barrels_3_M1939_Life_Boat_dead.model>
+	<exporter>	1.6	</exporter>
+	<castsShadow>	true	</castsShadow>
+	<materialNames />
+	<extent>	4.0000	</extent>
+	<parent>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/gun/lods/IGM010_381mm50_barrels_3_M1939_Life_Boat_dead_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/gun/IGM010_381mm50_barrels_3_M1939_Life_Boat_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</IGM010_381mm50_barrels_3_M1939_Life_Boat_dead.model>

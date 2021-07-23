@@ -1,0 +1,8 @@
+<IGA013_20mm65_Breda_M1935_double.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/gun/lods/IGA013_20mm65_Breda_M1935_double_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/gun/IGA013_20mm65_Breda_M1935_double	</nodefullVisual>
+	<extent>	3.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</IGA013_20mm65_Breda_M1935_double.model>

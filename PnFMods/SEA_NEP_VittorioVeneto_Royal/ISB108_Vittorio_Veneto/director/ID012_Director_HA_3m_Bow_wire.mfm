@@ -1,0 +1,14 @@
+<ID012_Director_HA_3m_Bow_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/director/ID012_Director_HA_3m_Bow_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/director/ID012_Director_HA_3m_Bow_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/director/ID012_Director_HA_3m_Bow_a.dds	</Texture>
+	</property>
+</ID012_Director_HA_3m_Bow_wire.mfm>
