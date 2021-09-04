@@ -1,0 +1,17 @@
+<IAS001_IMAM_RO_43_Roma.mfm>
+	<fx>	shaders/std_effects/PBS_emissive.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/aircraft/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/aircraft/IAS001_IMAM_RO_43_Roma_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/aircraft/IAS001_IMAM_RO_43_Roma_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/aircraft/IAS001_IMAM_RO_43_Roma_n.dds	</Texture>
+	</property>
+</IAS001_IMAM_RO_43_Roma.mfm>

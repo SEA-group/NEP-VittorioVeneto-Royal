@@ -1,0 +1,13 @@
+<IAS001_IMAM_RO_43_Roma_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/aircraft/IAS001_IMAM_RO_43_Roma_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/aircraft/IAS001_IMAM_RO_43_Roma_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/aircraft/IAS001_IMAM_RO_43_Roma_n.dds	</Texture>
+	</property>
+</IAS001_IMAM_RO_43_Roma_wire.mfm>
