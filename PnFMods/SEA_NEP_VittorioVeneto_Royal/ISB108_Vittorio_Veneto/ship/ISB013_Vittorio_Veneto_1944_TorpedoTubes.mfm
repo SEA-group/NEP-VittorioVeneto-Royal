@@ -12,7 +12,7 @@
 		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/ship/ISB013_Vittorio_Veneto_1944_TorpedoTubes_a.dds	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/ship/ISB013_Vittorio_Veneto_19443_TorpedoTubes_n.dds	</Texture>
+		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/ship/ISB013_Vittorio_Veneto_1944_TorpedoTubes_n.dds	</Texture>
 	</property>
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/SEA_NEP_VittorioVeneto_Royal/ISB108_Vittorio_Veneto/ship/ISB013_Vittorio_Veneto_1944_TorpedoTubes_mg.dds	</Texture>
